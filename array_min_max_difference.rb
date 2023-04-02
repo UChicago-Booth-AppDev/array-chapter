@@ -9,3 +9,11 @@
 # NOTE: for this exercise use the provided array (don't ask the user for a value, in this task).
 
 array = [12, 23, 41, 73, 19, 6]
+
+lowest_number = array.min
+highest_number = array.max
+difference = array.max - array.min
+
+p lowest_number
+p highest_number
+p difference
